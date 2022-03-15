@@ -1,0 +1,7 @@
+C:\Demo\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\ConsoleAppTest1.exe.config
+C:\Demo\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\ConsoleAppTest1.exe
+C:\Demo\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\ConsoleAppTest1.pdb
+C:\Demo\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\ConsoleAppTest1.csprojAssemblyReference.cache
+C:\Demo\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\ConsoleAppTest1.csproj.CoreCompileInputs.cache
+C:\Demo\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\ConsoleAppTest1.exe
+C:\Demo\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\ConsoleAppTest1.pdb

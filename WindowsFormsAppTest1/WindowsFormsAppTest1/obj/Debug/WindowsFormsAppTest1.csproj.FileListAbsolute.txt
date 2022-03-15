@@ -1,0 +1,10 @@
+C:\Demo\WindowsFormsAppTest1\WindowsFormsAppTest1\bin\Debug\WindowsFormsAppTest1.exe.config
+C:\Demo\WindowsFormsAppTest1\WindowsFormsAppTest1\bin\Debug\WindowsFormsAppTest1.exe
+C:\Demo\WindowsFormsAppTest1\WindowsFormsAppTest1\bin\Debug\WindowsFormsAppTest1.pdb
+C:\Demo\WindowsFormsAppTest1\WindowsFormsAppTest1\obj\Debug\WindowsFormsAppTest1.csprojAssemblyReference.cache
+C:\Demo\WindowsFormsAppTest1\WindowsFormsAppTest1\obj\Debug\WindowsFormsAppTest1.Form1.resources
+C:\Demo\WindowsFormsAppTest1\WindowsFormsAppTest1\obj\Debug\WindowsFormsAppTest1.Properties.Resources.resources
+C:\Demo\WindowsFormsAppTest1\WindowsFormsAppTest1\obj\Debug\WindowsFormsAppTest1.csproj.GenerateResource.cache
+C:\Demo\WindowsFormsAppTest1\WindowsFormsAppTest1\obj\Debug\WindowsFormsAppTest1.csproj.CoreCompileInputs.cache
+C:\Demo\WindowsFormsAppTest1\WindowsFormsAppTest1\obj\Debug\WindowsFormsAppTest1.exe
+C:\Demo\WindowsFormsAppTest1\WindowsFormsAppTest1\obj\Debug\WindowsFormsAppTest1.pdb
